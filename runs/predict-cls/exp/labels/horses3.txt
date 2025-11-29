@@ -1,0 +1,5 @@
+0.51 Percheron
+0.22 Arabian
+0.12 Orlov-Trotter
+0.05 Friesian
+0.05 Akhal-Teke

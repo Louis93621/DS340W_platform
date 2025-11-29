@@ -1,0 +1,5 @@
+0.43 Friesian
+0.24 Arabian
+0.11 Akhal-Teke
+0.10 Percheron
+0.06 Appaloosa

@@ -1,0 +1,5 @@
+0.43 Arabian
+0.22 Orlov-Trotter
+0.13 Friesian
+0.09 Percheron
+0.06 Appaloosa

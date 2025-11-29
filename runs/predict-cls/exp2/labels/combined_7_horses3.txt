@@ -1,0 +1,5 @@
+0.94 Appaloosa
+0.02 Akhal-Teke
+0.01 Arabian
+0.01 Vladimir-Heavy-Draft
+0.01 Percheron

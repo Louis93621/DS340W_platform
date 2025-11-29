@@ -1,0 +1,5 @@
+0.38 Orlov-Trotter
+0.22 Percheron
+0.16 Arabian
+0.11 Akhal-Teke
+0.06 Appaloosa

@@ -1,0 +1,5 @@
+0.91 Akhal-Teke
+0.02 Orlov-Trotter
+0.02 Appaloosa
+0.01 Vladimir-Heavy-Draft
+0.01 Percheron

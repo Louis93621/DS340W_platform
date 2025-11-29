@@ -1,0 +1,5 @@
+0.93 Friesian
+0.02 Arabian
+0.01 Orlov-Trotter
+0.01 Vladimir-Heavy-Draft
+0.01 Percheron

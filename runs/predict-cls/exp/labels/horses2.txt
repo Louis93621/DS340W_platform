@@ -1,0 +1,5 @@
+0.50 Percheron
+0.31 Orlov-Trotter
+0.07 Arabian
+0.05 Akhal-Teke
+0.03 Vladimir-Heavy-Draft
