@@ -1,9 +1,3 @@
-Here is the comprehensive `README.md` in English, tailored to your specific project structure and the solutions we implemented.
-
-You can save this content directly as `README.md` in your project root.
-
------
-
 # Horse Breed Detection & Classification System (YOLOv9)
 
 This project implements a **Two-Stage Object Detection and Classification System**. It utilizes **YOLOv9** to detect horses within images and a custom-trained **YOLOv5-cls** classifier to identify their specific breeds.
